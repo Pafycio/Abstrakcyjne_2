@@ -1,0 +1,7 @@
+E:\Projekty\Coding\c#\Ex_2\Ex_2\obj\Debug\Ex_2.csprojResolveAssemblyReference.cache
+E:\Projekty\Coding\c#\Ex_2\Ex_2\bin\Debug\Ex_2.dll.config
+E:\Projekty\Coding\c#\Ex_2\Ex_2\bin\Debug\Ex_2.dll
+E:\Projekty\Coding\c#\Ex_2\Ex_2\bin\Debug\Ex_2.pdb
+E:\Projekty\Coding\c#\Ex_2\Ex_2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Projekty\Coding\c#\Ex_2\Ex_2\obj\Debug\Ex_2.dll
+E:\Projekty\Coding\c#\Ex_2\Ex_2\obj\Debug\Ex_2.pdb
